@@ -47,3 +47,30 @@
 #topics .card-img-top {
   object-fit: cover;
 }
+
+/* Affirmations styling */
+
+#affirmations .accordion-button {
+  font-weight: 600;
+  font-style: italic;
+  background-color: #f8f9fa;
+  color: #333;
+}
+
+#affirmations .accordion-body {
+  font-family: 'Open Sans', sans-serif;
+  color: #555;
+}
+
+#affirmations .accordion-button {
+  font-weight: 600;
+  font-style: italic;
+  background-color: #f8f9fa;
+  color: #333;
+}
+
+#affirmations .accordion-body {
+  font-family: 'Open Sans', sans-serif;
+  color: #555;
+  line-height: 1.6;
+}
