@@ -47,14 +47,3 @@
 #topics .card-img-top {
   object-fit: cover;
 }
-
-/* Makes card images center */
-.card-img-top {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    height: 180px;
-    width: auto;
-    object-fit: contain;
-    padding-top: 15px;
-}
