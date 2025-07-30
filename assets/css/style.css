@@ -39,7 +39,7 @@ body {
 
 /* Hero Section Styling */
 .hero-section {
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../images/hero.png') no-repeat center center/cover;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../images/hero_resized.png') no-repeat center center/cover;
     background-size: cover;
     color: #FFEBD4 !important;
     padding: 100px 0;
@@ -65,8 +65,8 @@ body {
 #affirmations .accordion-button {
   font-weight: 600;
   font-style: italic;
-  background-color: #f8f9fa;
-  color: #333;
+  background-color: #f8f9fa  !important;
+  color: #333  !important;
 }
 
 #affirmations .accordion-body {
@@ -77,14 +77,14 @@ body {
 #affirmations .accordion-button {
   font-weight: 600;
   font-style: italic;
-  background-color: #f8f9fa;
-  color: #333;
+  background-color: #f8f9fa  !important;
+  color: #333  !important;
 }
 
 #affirmations .accordion-body {
-  font-family: 'Open Sans', sans-serif;
-  color: #555;
-  line-height: 1.6;
+  font-family: 'Open Sans', sans-serif  !important; 
+  color: #555 !important;
+  line-height: 1.6 !important;
 }
 
 /* Resources styling */
