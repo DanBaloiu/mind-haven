@@ -1,3 +1,13 @@
+/* Global styles */
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+/* All major headings */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Lora', serif;
+}
+
+
 /* Navbar Styling */
 .navbar {
     box-shadow: 0 2px 4px rgba(0,0,0,.1);
