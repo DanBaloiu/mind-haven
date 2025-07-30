@@ -25,6 +25,12 @@
     }
 }
 
+/* Push the body down to make space for the fixed navbar */
+
+body {
+  padding-top: 56px; /* Adjust based on navbar height */
+}
+
 /* Hero Section Styling */
 .hero-section {
     background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../images/hero.png') no-repeat center center/cover;
