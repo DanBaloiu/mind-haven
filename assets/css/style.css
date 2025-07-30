@@ -16,6 +16,15 @@ h1, h2, h3, h4, h5, h6 {
 .navbar-brand {
     font-weight: 600;
     color: #333 !important;
+    margin-left: 0;
+}
+
+/* Align navbar content with body section containers */
+.navbar .container-fluid {
+    max-width: 1140px; /* Match Bootstrap's container max-width */
+    margin: 0 auto;
+    padding-left: 15px;
+    padding-right: 15px;
 }
 
 .navbar-nav .nav-link {
@@ -129,8 +138,7 @@ body {
   font-size: 1rem; /* Use default font size like topics cards */
 }
 
-/* Foote social links */
-/* Override rule for inheriting underline style */
+/* Footer styling */
 footer a {
   text-decoration: none;
 }
