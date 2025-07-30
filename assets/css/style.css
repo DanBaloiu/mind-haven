@@ -108,9 +108,7 @@ body {
 /* Tools and tips styling */
 
 #tips .card-img-top {
-  max-height: 180px;
-  object-fit: contain;
-  padding: 1rem;
+  object-fit: cover;
 }
 
 #tips .card-title {
@@ -118,7 +116,7 @@ body {
 }
 
 #tips .card-text {
-  font-size: 0.95rem;
+  font-size: 1rem; /* Use default font size like topics cards */
 }
 
 /* Foote social links */
