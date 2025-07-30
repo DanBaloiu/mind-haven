@@ -92,3 +92,19 @@
   margin-top: 1rem;
   margin-bottom: 1rem;
 }
+
+/* Tools and tips styling */
+
+#tips .card-img-top {
+  max-height: 180px;
+  object-fit: contain;
+  padding: 1rem;
+}
+
+#tips .card-title {
+  font-weight: 600;
+}
+
+#tips .card-text {
+  font-size: 0.95rem;
+}
