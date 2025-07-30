@@ -6,6 +6,15 @@
 .navbar-brand {
     font-weight: 600;
     color: #333 !important;
+    margin-left: 0;
+}
+
+/* Align navbar brand with container content */
+.navbar .container-fluid {
+    max-width: 1140px; /* Match Bootstrap's container max-width */
+    margin: 0 auto;
+    padding-left: 15px;
+    padding-right: 15px;
 }
 
 .navbar-nav .nav-link {
@@ -23,6 +32,12 @@
         margin: 5px 0;
         text-align: center;
     }
+}
+
+.logo-sm {
+  height: 40px;
+  width: auto;
+  object-fit: contain;
 }
 
 /* Push the body down to make space for the fixed navbar */
