@@ -6,15 +6,6 @@
 .navbar-brand {
     font-weight: 600;
     color: #333 !important;
-    margin-left: 0;
-}
-
-/* Align navbar brand with container content */
-.navbar .container-fluid {
-    max-width: 1140px; /* Match Bootstrap's container max-width */
-    margin: 0 auto;
-    padding-left: 15px;
-    padding-right: 15px;
 }
 
 .navbar-nav .nav-link {
@@ -128,4 +119,14 @@ body {
 
 #tips .card-text {
   font-size: 0.95rem;
+}
+
+/* Foote social links */
+/* Override rule for inheriting underline style */
+footer a {
+  text-decoration: none;
+}
+
+footer a:hover {
+  text-decoration: none;
 }
