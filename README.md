@@ -12,7 +12,7 @@ This website was created to fulfill the project brief for Code Institute's first
 
 The clean, calming visual design and consistent layout make the experience accessible across all devices.
 
-![Am I Responsive](assets\readme-images\am-i-responsive.png)
+![Am I Responsive](assets/readme-images/am-i-responsive.png)
 
 ---
 
@@ -20,7 +20,7 @@ The clean, calming visual design and consistent layout make the experience acces
 
 Wireframes were created using Balsamiq to define the content layout and visual hierarchy. Wireframes were created before the coding started and served as a guide for the project.
 
-![Wireframe – Mobile, Tablet & Desktop](assets\readme-images\wireframes.png)
+![Wireframe – Mobile, Tablet & Desktop](assets/readme-images/wireframes.png)
 
 ---
 
@@ -41,7 +41,7 @@ AI and related tools significantly enhanced the development process:
 - Fixed at the top with smooth Bootstrap collapse on smaller screens
 - Links scroll to each main section
 
-![Navbar](assets\readme-images\navbar.png)
+![Navbar](assets/readme-images/navbar.png)
 
 ---
 
@@ -49,7 +49,7 @@ AI and related tools significantly enhanced the development process:
 - Full-width background image with motivational headline
 - Subtle gradient overlay to increase text readability
 
-![Hero Section](assets\readme-images\hero.png)
+![Hero Section](assets/readme-images/hero.png)
 
 ---
 
@@ -57,7 +57,7 @@ AI and related tools significantly enhanced the development process:
 - Presented using Bootstrap cards with icons and short descriptions
 - Includes: Stress, Anxiety, Depression, Burnout
 
-![Common Topics](assets\readme-images\topics.png)
+![Common Topics](assets/readme-images/topics.png)
 
 ---
 
@@ -73,7 +73,7 @@ AI and related tools significantly enhanced the development process:
 - Two-column responsive accordion with links to real mental health support platforms
 - Font Awesome icons and minimalist images used for context
 
-![Helpful Resources](assets\readme-images\resources.png)
+![Helpful Resources](assets/readme-images/resources.png)
 
 ---
 
@@ -81,8 +81,8 @@ AI and related tools significantly enhanced the development process:
 - Wellness tools shown as card tiles
 - Covers: Journaling, Nature, Physical Activity, Breathing, Sleep Hygiene, Time Management
 
-![Tools and Tips](assets\readme-images\tips.png)
-![Tools and Tips](assets\readme-images\tips2.png)
+![Tools and Tips](assets/readme-images/tips.png)
+![Tools and Tips](assets/readme-images/tips2.png)
 
 ---
 
@@ -102,7 +102,7 @@ AI and related tools significantly enhanced the development process:
 - A "Back to Homepage" button allows users to quickly return to the top of the site.
 - The modal only appears if all fields pass validation.
 
-![Modal Confirmation](assets\readme-images\modal-confirmation.png)
+![Modal Confirmation](assets/readme-images/modal-confirmation.png)
 
 ---
 
@@ -110,7 +110,7 @@ AI and related tools significantly enhanced the development process:
 - Aligned logo on the left
 - Social icons (Facebook, Instagram, X) on the right, open in new tab
 
-![Footer](assets\readme-images\footer.png)
+![Footer](assets/readme-images/footer.png)
 
 ---
 
@@ -152,22 +152,22 @@ AI and related tools significantly enhanced the development process:
 - All validation issues (e.g. duplicate IDs, missing `alt`, incorrect nesting) were corrected.
 
 HTLM before optimisation:
-![HTML Before](assets\readme-images\html-validation-before.png)
+![HTML Before](assets/readme-images/html-validation-before.png)
 
 HTLM after optimisation:
 ![HTML After](assets/readme-images/html-vallidation-after.png)
 ![HTML After2](assets/readme-images/html-vallidation-after2.png)
 
 CSS Validation(Did not require any adjustments):
-![CSS Validation](assets\readme-images\css-vallidation.png)
+![CSS Validation](assets/readme-images/css-vallidation.png)
 
 ### 💡 Lighthouse Reports
 
 Before optimization:
-![Lighthouse Before](assets\readme-images\lighthouse-score-before.png)
+![Lighthouse Before](assets/readme-images/lighthouse-score-before.png)
 
 After image compression and structural corrections:
-![Lighthouse After](assets\readme-images\lighthouse-score-after.png)
+![Lighthouse After](assets/readme-images/lighthouse-score-after.png)
 
 ### ⚠️ Accessibility Improvements
 
